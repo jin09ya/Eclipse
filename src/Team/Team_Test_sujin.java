@@ -7,7 +7,7 @@ package Team;
 
 import java.util.Scanner;
 
-public class Test_sujin {
+public class Team_Test_sujin {
 	
 	public static void main(String[] args) {
 		
